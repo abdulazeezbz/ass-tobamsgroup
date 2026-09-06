@@ -11,7 +11,7 @@ const Header = () => {
   return (
     <header className="w-full border-b border-primary-light bg-white sticky top-0 z-50">
       {/* Top Bar */}
-      <section className="flex flex-row items-center justify-between px-4 sm:px-8 lg:px-10 py-3 lg:py-2">
+      <section className="flex flex-row items-center justify-between px-4 sm:px-8 lg:px-10 py-3 lg:py-0">
         <div>
           <Image
             width={165}
