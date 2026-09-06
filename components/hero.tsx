@@ -7,7 +7,7 @@ const Hero = () => {
             <div className='w-full min-h-[460px] md:h-[75vh] mx-auto bg-foreground/70 flex items-center justify-center py-12 md:py-0'>
                 <div className='w-full container px-4 sm:px-6 md:px-8 mx-auto flex flex-col items-center justify-center gap-4 sm:gap-6 md:gap-8'>
                     
-                    <span className='text-white text-[11px] sm:text-[13px] font-semibold tracking-wider uppercase bg-white/20 px-4 py-1.5 rounded-full backdrop-blur-sm'>
+                    <span className='text-white text-[11px] sm:text-[18px]  tracking-wider uppercase bg-white/20 px-5 py-2 rounded-full backdrop-blur-sm'>
                         What We Do
                     </span>
 
@@ -29,4 +29,4 @@ const Hero = () => {
     )
 }
 
-export default Hero
+export default Hero
