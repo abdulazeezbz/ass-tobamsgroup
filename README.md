@@ -6,7 +6,7 @@ A pixel-perfect, responsive frontend implementation for **Tobams Group**, built 
 
 ## 🔗 Live Demo & Links
 
-- **Live URL**: [https://ass.tobamsgroup.com](https://ass.tobamsgroup.com) *(or your deployed Vercel link)*
+- **Live URL**: [https://ass.tobamsgroup.com](https://ass.tobamsgroup.com)
 - **GitHub Repository**: [https://github.com/abdulazeezbz/ass-tobamsgroup](https://github.com/abdulazeezbz/ass-tobamsgroup)
 
 ---
